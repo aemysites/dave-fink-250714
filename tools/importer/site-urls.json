@@ -1,0 +1,566 @@
+{
+  "originUrl": "https://storyhalftold.com",
+  "lastCrawled": "https://storyhalftold.com",
+  "urls": [
+    {
+      "url": "https://www.storyhalftold.com/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "89e1ac54e9ec7ebda90770cb2de9ab7f5d84d4e4"
+    },
+    {
+      "url": "https://www.storyhalftold.com/about",
+      "source": "SITEMAPS",
+      "targetPath": "/about",
+      "id": "c4e00d1c399586c855114a109db04fe69450b1d0"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-stories",
+      "source": "SITEMAPS",
+      "targetPath": "/community-stories",
+      "id": "b0513372fba0bc00dd9474d38c963b3e54ca283a"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/active-role",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/active-role",
+      "id": "cdba2e59d9b55120d8560f238674237f1d7069d4"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/advocacy",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/advocacy",
+      "id": "4e79371bf4da832d37a04598c5b1b2e7a1d35c48"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/advocacy-work",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/advocacy-work",
+      "id": "a55c307ec92b2ff8b49314cbae921b626984c147"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/approach-doctor-appointments",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/approach-doctor-appointments",
+      "id": "64f70bc7a7005ec1e354a74abb9b320e4d528b91"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/artist-tells-her-story-painting-artwork-mbc-patients",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/artist-tells-her-story-painting-artwork-mbc-patients",
+      "id": "39986a619ce8299cf9dc5042d5989952c5c31369"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/becoming-my-own-best-healthcare-advocate",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/becoming-my-own-best-healthcare-advocate",
+      "id": "c7f5dd716588f249a8d15b7302c436d0e0a3a492"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/becoming-my-own-best-healthcare-advocate-0",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/becoming-my-own-best-healthcare-advocate-0",
+      "id": "35022119da4bb6477c0f0413849349addbf7bd4b"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/being-unable-walk-walking-down-aisle",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/being-unable-walk-walking-down-aisle",
+      "id": "a6d6e1b533326c8a5893a06f6f9726f82ea03414"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/braving-mbc-storm-family-affair-caregivers-perspective",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/braving-mbc-storm-family-affair-caregivers-perspective",
+      "id": "3a87ab0a292ac1c0ba580da6569267fc1353aea7"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/celebrating-milestones-metastatic-breast-cancer-finding-joy-every-moment",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/celebrating-milestones-metastatic-breast-cancer-finding-joy-every-moment",
+      "id": "f371f558dcd20ace8151a31903faa3d3429491cf"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/challenges-being-diagnosed-mbc-18-years-old",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/challenges-being-diagnosed-mbc-18-years-old",
+      "id": "201fb4e99ab416ea2d818b3f74322f1ef58121a5"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/community-friendships-within-mbc-community",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/community-friendships-within-mbc-community",
+      "id": "ddf1788935a6a1b25ea227722f514e9e71c7a0c6"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/creating-legacy-myself-and-my-family",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/creating-legacy-myself-and-my-family",
+      "id": "888eb12f20c5401a7faab85cf095c3bd5f4d8a72"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/dealing-stress-around-holidays",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/dealing-stress-around-holidays",
+      "id": "cbd1679c8b092781a8d2e0c750a737089a87c91b"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/dense-breast-dilemma",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/dense-breast-dilemma",
+      "id": "217dd9ab933fab5182033345f79a2954f69d062e"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/digesting-information",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/digesting-information",
+      "id": "74a1c8b2f15dbc41093e3c6539bf2cc02145fcd9"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/do-tattoos-cause-cancer-the-making-of-the-stupid-stuff-people-say-to-people-living-with-mbc",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/do-tattoos-cause-cancer-the-making-of-the-stupid-stuff-people-say-to-people-living-with-mbc",
+      "id": "efb3215b8bfcab07589b1d69dce10f4b0f36a91b"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/doctor-preparation",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/doctor-preparation",
+      "id": "c8404369abd24e3e8ae7373eb8978e2489132927"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/doctor-visit-preparation",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/doctor-visit-preparation",
+      "id": "a7b9532f251ccaaed948dacd87327e4badb8d8e0"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/finding-joy-little-things-while-living-metastatic-breast-cancer-mbc",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/finding-joy-little-things-while-living-metastatic-breast-cancer-mbc",
+      "id": "503d6f99a9541e8f2733a54a8b69c356a6f56b8b"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/goals",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/goals",
+      "id": "944ef54b466d9b13d7b85292085941e97a18378c"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/harnessing-power-female-friendship-amid-mbc-diagnosis",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/harnessing-power-female-friendship-amid-mbc-diagnosis",
+      "id": "cb46849a4e589b1a6209abc652b4903e37ca5f08"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/holley-kitchen",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/holley-kitchen",
+      "id": "8a30e9b4e530e54d03ef4bcc5e85fc5e9611401f"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/how-prepare-challenges-breast-cancer-awareness-month",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/how-prepare-challenges-breast-cancer-awareness-month",
+      "id": "26887b2ffc582baa32e9e620c52465364596a024"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/how-three-women-became-dear-friends-their-mbc-diagnoses",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/how-three-women-became-dear-friends-their-mbc-diagnoses",
+      "id": "f50dae35ae8ddb7d60012ef14dc188701e704321"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/humanizing-mbc",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/humanizing-mbc",
+      "id": "e9f96ce2f650c796f09272fdc46d76a9acad8292"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/i-choose-every-single-day-live-my-life",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/i-choose-every-single-day-live-my-life",
+      "id": "7bbbc44dfb21d5815f4ed31f1f532ac360317a68"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/keeping-it-together-mentally-ones-self-w-mbc-internal-self-battle",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/keeping-it-together-mentally-ones-self-w-mbc-internal-self-battle",
+      "id": "9b953db319bd5864b6330df5229220208dad1076"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/life-early-breast-cancer-vs-life-mbc-our-contributors-weigh-part-one",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/life-early-breast-cancer-vs-life-mbc-our-contributors-weigh-part-one",
+      "id": "a394fd0615d6bf2742f52dd5da4002514c62436e"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/living-mbc",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/living-mbc",
+      "id": "5e4fd7344113c57493c9cbcb2e4bef40f9dd4db8"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/looking-death-differently-perspective-and-planning",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/looking-death-differently-perspective-and-planning",
+      "id": "231d36916ea09c790aa44bc270c1cf8598f4ed73"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/love-while-living-mbc",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/love-while-living-mbc",
+      "id": "254a91c43f83e06bb79fae4d5d271bce7c41868a"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/love-while-living-mbc-0",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/love-while-living-mbc-0",
+      "id": "71af70d81c36fec566feffbc091996468b0baa62"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/mbc-and-family",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/mbc-and-family",
+      "id": "cae87e8d8df14b131cf5a7561e8e2b1a724f28be"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/metastatic-madness-poem-about-living-mbc",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/metastatic-madness-poem-about-living-mbc",
+      "id": "184d405bfccd2e9f5a67e16b4757735542287be4"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/metastatic-mothering",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/metastatic-mothering",
+      "id": "2ebd72e52bafacb68ac68a373bb081c84bef1b0e"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/music-therapy",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/music-therapy",
+      "id": "8de793d42c607c75079da18c08762e8504d6d828"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/my-mbc-diagnosis-reflection",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/my-mbc-diagnosis-reflection",
+      "id": "44e1e84f965ca26c576d2e303cd1bf9cade9e0e8"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/my-mbc-diagnosis-reflection-part-two",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/my-mbc-diagnosis-reflection-part-two",
+      "id": "0f555f1340a62f2edcacf75ff4aabe1cf5a5a15a"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/my-mbc-journey-search-understanding",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/my-mbc-journey-search-understanding",
+      "id": "1d3a53c636eb4ca8880991d52fa07eb90c11867a"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/my-mother-loved-each-day-fullest",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/my-mother-loved-each-day-fullest",
+      "id": "fcd1e0099c965c0f66eca575404818f74862284f"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/no-pink-tutus-here-lets-talk-activism",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/no-pink-tutus-here-lets-talk-activism",
+      "id": "1772418c4f5ede715c6469aa0bb7057d3ceb9dc8"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/nurse-mbc-patient",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/nurse-mbc-patient",
+      "id": "7b6f49313b9c407d821ee4998a3adf0573ae9632"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/out-limb",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/out-limb",
+      "id": "d083eff8b0a72d0f0c455acb0f70ece2467da58f"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/parenting-metastatic-breast-cancer-mbc-teens-part-two",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/parenting-metastatic-breast-cancer-mbc-teens-part-two",
+      "id": "72e20c0b570df1a0705e64fa5da60fb67e7909c9"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/parenting-metastatic-breast-cancer-young-kids-part-one",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/parenting-metastatic-breast-cancer-young-kids-part-one",
+      "id": "b9de982f10600596ecf10fab86ad2103cf0d1f1f"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/physician-lifeline",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/physician-lifeline",
+      "id": "87fca9d23e579378bfdb42d151a73d753667e3f9"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/preparing-treatment",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/preparing-treatment",
+      "id": "9f93e9ace900e63a83881aee051273038b33cad5"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/relationship-doctor",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/relationship-doctor",
+      "id": "36a3f20189fed8587f23dca424e316ae6d290256"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/responses-after-mbc-diagnosis",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/responses-after-mbc-diagnosis",
+      "id": "ac28713120f02e98b35677f9ea7d722ffd642a52"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/self-advocacy-self-care",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/self-advocacy-self-care",
+      "id": "5ab35a15f09555f29b74add6149d78d4960ffba8"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/sex-intimacy-and-mbc",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/sex-intimacy-and-mbc",
+      "id": "177ac9482d9fb840f6e0be3bdc69f9c6dcf22e64"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/sheilas-experience-comparing-bc-mbc",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/sheilas-experience-comparing-bc-mbc",
+      "id": "7a24b56571e99d39075d875ad2f48658d4568b79"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/staying-active",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/staying-active",
+      "id": "cee228b72185b1b7c6fa02d34e5464f7d08d601b"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/stress-management-it-relates-managing-mbc-diagnosis",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/stress-management-it-relates-managing-mbc-diagnosis",
+      "id": "707324ebb56f0d022098d0d101f583c6026016cc"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/support",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/support",
+      "id": "a75d708bf7551d09ae7a5366cb9f84868b57c6cd"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/support-groups",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/support-groups",
+      "id": "a8b68fced0de6b8affc0e48f8ab4570f4a7d6571"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/supporting-loved-ones",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/supporting-loved-ones",
+      "id": "db4b13fc450ad821b5503eb9fe444f8691dc99a7"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/survivors-guilt",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/survivors-guilt",
+      "id": "0488b02703ec54af8d4fc7fa4143333ac1ba1ca9"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/tattoo-artist-helps-women-embrace-their-new-post-mastectomy-bodies-art",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/tattoo-artist-helps-women-embrace-their-new-post-mastectomy-bodies-art",
+      "id": "c90cbb0b97d8ddddb4402cc61acdb1fd7dde1b3e"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/things-are-not-going-be-okay-and-thats-okay",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/things-are-not-going-be-okay-and-thats-okay",
+      "id": "0d67b06385e568c10d41748fb5264650235ce0fb"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/thirteen-years-cherish-moments",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/thirteen-years-cherish-moments",
+      "id": "e411316ef0cd618a4ed9e1e647ea11582302152a"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/time-others",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/time-others",
+      "id": "22724da8552951ef76b6d073bceaa6dbee6c685e"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/trust",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/trust",
+      "id": "1a00f4df5e41f2d96be1b0162919b023cd3efcb7"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/trust-0",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/trust-0",
+      "id": "8691a37fa10824ef249d3491941d643cd8f144ef"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/tsiliana-jolson-walking-new-york-fashion-week-cancerland-show-those-not-able",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/tsiliana-jolson-walking-new-york-fashion-week-cancerland-show-those-not-able",
+      "id": "8423803903918f5e687d07f8818a62622be973d0"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/understanding-mbc-chronic-vs-terminal",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/understanding-mbc-chronic-vs-terminal",
+      "id": "2d13dbaf6ece99d76d13e148888e750d1c6a6eca"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/using-my-experience-educate-others",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/using-my-experience-educate-others",
+      "id": "ecfd8d0c5b9ce82226f8c0d1e519c232f53bc269"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/valuable-advice-about-living-mbc",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/valuable-advice-about-living-mbc",
+      "id": "0560992fa033122ee6f588338c1d458ac7845113"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/what-being-advocate-mbc-community-means-me",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/what-being-advocate-mbc-community-means-me",
+      "id": "fe7f9e4637fec0892bf171e221aa2091a9617c96"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/what-it-means-live-stage-iv-cancer",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/what-it-means-live-stage-iv-cancer",
+      "id": "9fdb9e9a0174757bd2b8b5315bb6c40ede7a875e"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/words-matter-battle-language",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/words-matter-battle-language",
+      "id": "acb7d6f27c765a455566b90089ddc8aec10555dd"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/working-through-treatment",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/working-through-treatment",
+      "id": "04addb647ce04c9ecb7df46b7ff1190d67f3ad3e"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/yoga",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/yoga",
+      "id": "1436b23dad6e5765f2d2ea06f538c4ddbdf72452"
+    },
+    {
+      "url": "https://www.storyhalftold.com/community-story/youre-not-alone",
+      "source": "SITEMAPS",
+      "targetPath": "/community-story/youre-not-alone",
+      "id": "8d861740549518b779c3ae39a195932e98f9b40a"
+    },
+    {
+      "url": "https://www.storyhalftold.com/mbc-sys-thank-you",
+      "source": "SITEMAPS",
+      "targetPath": "/mbc-sys-thank-you",
+      "id": "2c14718ee8c585c268cb6667c3b76da5d852a3e2"
+    },
+    {
+      "url": "https://www.storyhalftold.com/meet-beth-fairchild",
+      "source": "SITEMAPS",
+      "targetPath": "/meet-beth-fairchild",
+      "id": "23b1fc7c1a9b26e04970f025f19f24d725e2f464"
+    },
+    {
+      "url": "https://www.storyhalftold.com/meet-carol-miele",
+      "source": "SITEMAPS",
+      "targetPath": "/meet-carol-miele",
+      "id": "4b33e2c98aca3162736b327943cb8d56a0d1406e"
+    },
+    {
+      "url": "https://www.storyhalftold.com/meet-esther-brickley",
+      "source": "SITEMAPS",
+      "targetPath": "/meet-esther-brickley",
+      "id": "1c673f959e56f1ab2fa4d2bbc5b22a53d5098144"
+    },
+    {
+      "url": "https://www.storyhalftold.com/meet-holley-kitchen",
+      "source": "SITEMAPS",
+      "targetPath": "/meet-holley-kitchen",
+      "id": "b4215a98db756bc864846c3d7e1aabba1c210d22"
+    },
+    {
+      "url": "https://www.storyhalftold.com/meet-jill-cohen",
+      "source": "SITEMAPS",
+      "targetPath": "/meet-jill-cohen",
+      "id": "dd30c219239d87706c33418908ce79c9519fe530"
+    },
+    {
+      "url": "https://www.storyhalftold.com/meet-michael-kovarik",
+      "source": "SITEMAPS",
+      "targetPath": "/meet-michael-kovarik",
+      "id": "c2ce2df739a62d9b7189bf7f90a5571fe75582d9"
+    },
+    {
+      "url": "https://www.storyhalftold.com/meet-sheila-mcglown",
+      "source": "SITEMAPS",
+      "targetPath": "/meet-sheila-mcglown",
+      "id": "3698f71fe4acaeba495e3079bcfcbf383c924fd2"
+    },
+    {
+      "url": "https://www.storyhalftold.com/meet-tarah-harvey",
+      "source": "SITEMAPS",
+      "targetPath": "/meet-tarah-harvey",
+      "id": "ac9bf9b96db2565472d8f19a59bbf1d45601c7b2"
+    },
+    {
+      "url": "https://www.storyhalftold.com/node",
+      "source": "SITEMAPS",
+      "targetPath": "/node",
+      "id": "64371eb42e7a78d89c20cce767f4997328069529"
+    },
+    {
+      "url": "https://www.storyhalftold.com/node/695",
+      "source": "SITEMAPS",
+      "targetPath": "/node/695",
+      "id": "0d6736ac9a93f7f4ce688b986e95f06a65709b4c"
+    },
+    {
+      "url": "https://www.storyhalftold.com/resources",
+      "source": "SITEMAPS",
+      "targetPath": "/resources",
+      "id": "fd9525a77eee7e5a4cedda24d948aedc4d3aac94"
+    },
+    {
+      "url": "https://www.storyhalftold.com/woman-living-with-mbc",
+      "source": "SITEMAPS",
+      "targetPath": "/woman-living-with-mbc",
+      "id": "e94d7bc724e7ebe9bdcbf7be46d79f83d84e9f3f"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": []
+}
