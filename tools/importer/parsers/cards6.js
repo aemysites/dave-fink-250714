@@ -1,7 +1,9 @@
 /* global WebImporter */
 export default function parse(element, { document }) {
   // 1. Find the cards container (list of cards)
-  const cardsContainer = element.querySelector('.js-view-dom-id-8d6c0e64fbda604194a6f5b67ba3c13a65beb77e4e6fa4f2a42c59dada29633c');
+  
+  // manuall updated cards selector as the original .js-view-dom-id-xxx selector is dynamic
+  const cardsContainer = element.querySelector('#block-views-block-homepage-community-stories-block-1 > div > div');
   if (!cardsContainer) return;
 
   // 2. Table header matches example
